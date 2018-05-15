@@ -1,1 +1,7 @@
 HackaTAL2018
+https://hackrital2018.bpiwowar.net/index.html
+https://github.com/YumingZHAI/Hackathon2018
+https://github.com/HackaTAL/2018
+https://docs.google.com/spreadsheets/d/18Z6Zm4Ixpx91x7Y1F7yt0iOZvSn41aYXYFGgIGoNFnk/edit#gid=0
+https://stackoverflow.com/questions/33266956/nltk-package-to-estimate-the-unigram-perplexity
+http://damien.nouvels.net/bazar/hackathon2018/
