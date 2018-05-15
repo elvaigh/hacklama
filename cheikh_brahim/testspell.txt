@@ -1,0 +1,4 @@
+Aspell est le correcteur orthographique GNU. Il peut être utilisé en tant que bibliothèque par les logiciels, ou en tant qu'application autonome.
+Aspell prend en charge l'encodage utf-8, il permet de gérer plusieurs dictionnaires dans différentes langues. Il gère également de manière intelligente les dictionnaires personnalisés.
+D'autres correcteurs orthographiques existent sous GNU/Linux, comme Ispell (qui ne prend pas en charge l'utf-8) ou Myspell.
+
